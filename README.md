@@ -27,17 +27,17 @@ Query II: Tweet count on each day over a period of week for all Payment Technolo
 
 Query III: Number of Twitter accounts created according to month & year from Dataset I.
 
-Query IV: Top ten liked tweets with like count for Dataset II.
+Query IV:Top 10 Verified Accounts with Highest Follower Count in Dataset I.
 
 Query V: List of all the Languages that were used to tweet and its count on Dataset - II.
 
 Query VI: Percentage of Tweets with External Links in Tweet Status for Dataset II.
 
-Query VII: Number of Colleges in each state for Dataset III.
+Query VII:Top ten liked tweets with like count for Dataset II. 
 
-Query VIII: Ratio of Accreditation Types of all Colleges in Dataset III.
+Query VIII:Number of Colleges in each state for Dataset III. 
 
-Query IX: Top 10 Verified Accounts with Highest Follower Count in Dataset I.
+Query IX:Ratio of Accreditation Types of all Colleges in Dataset III.
 
 
 Team Members:
